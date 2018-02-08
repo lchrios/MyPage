@@ -78,14 +78,14 @@ nav ul li a {
 nav ul ul {
     position: absolute;
     top:100%;
-    background-color: blue;
+    background-color: #507192;
     display: none;
 }
 nav ul li:hover > ul {
     display: block;
 }
 nav ul li:hover {
-    background-color: blue;
+    background-color: #507192;
 }
 /* Content part */
 .below-content {
